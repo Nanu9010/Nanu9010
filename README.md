@@ -41,8 +41,8 @@ Document → Chunking → Embeddings → Vector Search → LLM → Grounded Resp
     <td width="50%" valign="top">
       <h3>🩺 <a href="https://github.com/Nanu9010/doctor-rag-1">MEDRAG</a></h3>
       <p><strong>Clinical RAG Assistant</strong></p>
-      <p>Ingests clinical documents, retrieves relevant context, and produces source-grounded responses through a FastAPI backend with streaming-oriented AI interactions.</p>
-      <p><code>FastAPI</code> <code>LangChain</code> <code>OpenAI API</code> <code>ChromaDB</code></p>
+      <p>Ingests clinical documents, retrieves relevant context, and produces source-grounded answers through a RAG pipeline.</p>
+      <p><code>Flask</code> <code>OpenAI API</code> <code>Pinecone</code> <code>MySQL</code></p>
     </td>
     <td width="50%" valign="top">
       <h3>🎓 <a href="https://github.com/Nanu9010/studypedia">StudyPedia</a></h3>
@@ -55,8 +55,8 @@ Document → Chunking → Embeddings → Vector Search → LLM → Grounded Resp
     <td width="50%" valign="top">
       <h3>⚡ <a href="https://github.com/Nanu9010/Stock-Prediction-Software">StockPro</a></h3>
       <p><strong>Real-Time SaaS Alert Platform</strong></p>
-      <p>Delivers live platform workflows through asynchronous processing, REST APIs, and real-time client updates.</p>
-      <p><code>Django Channels</code> <code>WebSockets</code> <code>Celery</code> <code>Redis</code></p>
+      <p>Manages research calls, portfolios, subscriptions, notifications, and lifecycle tracking through scheduled background processing.</p>
+      <p><code>Django</code> <code>DRF</code> <code>MySQL</code> <code>Celery</code> <code>Redis</code></p>
     </td>
     <td width="50%" valign="top">
       <h3>⚖️ Legal RAG</h3>
