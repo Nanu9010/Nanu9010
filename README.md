@@ -1,57 +1,94 @@
-# Kartikraj Nalage
+<div align="center">
 
-### Backend Engineer building Python systems and GenAI applications
+# Hi, I’m Kartikraj Nalage 👋
 
-I build backend services and AI-powered applications with Python, Django, Django REST Framework, and FastAPI. My work spans REST APIs, SaaS platforms, asynchronous processing, real-time systems, and Retrieval-Augmented Generation (RAG) applications.
+### Backend Engineer · Python · GenAI / RAG / LLM Applications
 
-I am particularly interested in designing reliable RAG and LLM workflows: document ingestion, chunking, embeddings, vector search, grounded responses, and API-first delivery.
+I build API-first backend systems and AI-powered products—from multi-tenant SaaS platforms and real-time workflows to retrieval-grounded LLM applications.
 
-## Core Stack
+[GitHub](https://github.com/Nanu9010)
 
-**Backend:** Python, Django, Django REST Framework, FastAPI, REST APIs, WebSockets, Django Channels
-
-**Data & async processing:** PostgreSQL, MySQL, Redis, Celery
-
-**GenAI & RAG:** LangChain, OpenAI API, RAG, LLM applications, ChromaDB, Pinecone, vector search, embeddings
-
-**Application engineering:** JWT, RBAC, Docker, multi-tenant SaaS, real-time systems
-
-## Selected Projects
-
-### MEDRAG — Clinical RAG Assistant
-
-AI-powered clinical document assistant that uses a RAG workflow to ingest documents, create embeddings, retrieve relevant context, and generate source-grounded responses. Built around a FastAPI backend with streaming-oriented AI interactions.
-
-**Focus:** FastAPI, LangChain, OpenAI API, ChromaDB, document processing, embeddings, vector search, RAG
-
-### StudyPedia — Multi-Tenant SaaS Learning Platform
-
-Multi-tenant learning platform built with tenant isolation, role-based access, subscription and feature-gating workflows, and background processing for application tasks.
-
-**Focus:** Django, Django REST Framework, PostgreSQL/MySQL, JWT, RBAC, Redis, Celery, REST APIs, SaaS
-
-### StockPro — Real-Time SaaS Alert Platform
-
-Real-time platform for delivering and processing alerts using asynchronous jobs and live client updates.
-
-**Focus:** Django, Django Channels, WebSockets, Celery, Redis, REST APIs, real-time systems
-
-### Legal RAG — In Development
-
-RAG application in development for retrieval and generation over legal-domain documents and case material.
-
-**Focus:** RAG, LLM applications, Pinecone, vector search, retrieval workflows
-
-## Current Focus
-
-- Building production-oriented GenAI, RAG, and LLM applications.
-- Improving retrieval quality, grounded AI responses, and vector-search workflows.
-- Designing scalable Python backend services for SaaS and real-time use cases.
-
-## Connect
-
-- GitHub: [@Nanu9010](https://github.com/Nanu9010)
+</div>
 
 ---
 
-Open to backend and GenAI opportunities involving Python, Django, FastAPI, RAG, and LLM applications.
+## What I Build
+
+```text
+Documents ──> Retrieval ──> Vector Search ──> LLM ──> Grounded Applications
+     │                                                    │
+     └──────── Python backends, APIs, async jobs & real-time delivery ───────┘
+```
+
+- **Backend systems** with Python, Django, Django REST Framework, and FastAPI
+- **GenAI applications** using RAG, LangChain, OpenAI API, embeddings, and vector search
+- **SaaS and real-time products** with background jobs, role-based access, WebSockets, and scalable APIs
+
+## Toolbox
+
+<p>
+  <img src="https://img.shields.io/badge/Python-1f6feb?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-0d3b2e?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/FastAPI-087f5b?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/PostgreSQL-31648c?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-a82c2c?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Docker-176ca0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+| Backend & APIs | AI / RAG | Systems |
+| --- | --- | --- |
+| Python · Django · DRF · FastAPI · REST APIs | LangChain · OpenAI API · RAG · LLMs · ChromaDB · Pinecone · vector search | PostgreSQL · MySQL · Redis · Celery · WebSockets · Django Channels · JWT · RBAC |
+
+## Featured Work
+
+### 🩺 MEDRAG — Clinical RAG Assistant
+
+> Clinical-document assistant designed around retrieval-grounded answers.
+
+`FastAPI` · `LangChain` · `OpenAI API` · `ChromaDB` · `Embeddings` · `Vector Search`
+
+Document ingestion, chunking, embeddings, context retrieval, and source-grounded response generation—delivered through a FastAPI backend with streaming-oriented AI interactions.
+
+### 🎓 StudyPedia — Multi-Tenant SaaS Learning Platform
+
+> A learning platform built for tenant-aware workflows and controlled access.
+
+`Django` · `Django REST Framework` · `PostgreSQL / MySQL` · `JWT / RBAC` · `Redis` · `Celery`
+
+Tenant isolation, role-based access, subscription and feature-gating workflows, and background processing for application tasks.
+
+### ⚡ StockPro — Real-Time SaaS Alert Platform
+
+> Real-time alerts backed by asynchronous processing and live client updates.
+
+`Django` · `Django Channels` · `WebSockets` · `Celery` · `Redis`
+
+Built around asynchronous jobs, REST APIs, and real-time delivery for live platform workflows.
+
+### ⚖️ Legal RAG — In Development
+
+> Exploring retrieval and generation over legal-domain documents and case material.
+
+`RAG` · `LLM Applications` · `Pinecone` · `Vector Search` · `Retrieval Workflows`
+
+## Currently Exploring
+
+```python
+focus = [
+    "production-oriented RAG and LLM applications",
+    "higher-quality retrieval and grounded responses",
+    "scalable Python services for SaaS and real-time products",
+]
+```
+
+---
+
+<div align="center">
+
+### Let’s build useful, reliable software.
+
+Open to backend and GenAI opportunities involving **Python, Django, FastAPI, RAG, and LLM applications**.
+
+[github.com/Nanu9010](https://github.com/Nanu9010)
+
+</div>
